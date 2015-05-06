@@ -3,3 +3,7 @@ This is the demo text file for implementing all the source tree functions
 some changes to be made
 
 Major issue is coming while pushing from remote to origin
+
+*******************************************************
+
+Major part of this project is to done all changes parallaly without any conflict
