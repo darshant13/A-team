@@ -7,3 +7,7 @@ Major issue is coming while pushing from remote to origin
 *******************************************************
 
 Major part of this project is to done all changes parallaly without any conflict
+
+*******************************************************
+
+now lets see the fetch function
